@@ -1,0 +1,16 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(2017-02-06 revision 13395d34d)-master*
+G04 #@! TF.CreationDate,2017-03-09T15:05:37-03:00*
+G04 #@! TF.ProjectId,beast-phat,62656173742D706861742E6B69636164,rev?*
+G04 #@! TF.FileFunction,Legend,Bot*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (2017-02-06 revision 13395d34d)-master) date Thu Mar  9 15:05:37 2017*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,0.100000*%
+G04 APERTURE END LIST*
+D10*
+M02*
